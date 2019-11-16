@@ -1,2 +1,0 @@
-# VisMan
-VisMan research webpage
